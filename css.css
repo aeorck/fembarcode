@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(212deg, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+}
+
+.qrback {
+  width: 350px;
+  background-color: white;
+  margin: 100px auto;
+  padding: 15px;
+  border-radius: 10px;
+  position: relative;
+  text-align: center;
+}
+.qrback .qrcode .imaqe {
+  border-radius: 10px;
+  width: 320px;
+  height: 320px;
+  margin: 0 auto;
+}
+.qrback .write {
+  width: 290px;
+  margin: 10px auto;
+}
+.qrback .write h2 {
+  font-weight: 700;
+  color: hsl(218deg, 44%, 22%);
+}
+.qrback .write h3 {
+  font-weight: 400;
+  color: hsl(220deg, 15%, 55%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+@media (max-width: 375px) {
+  .qrback {
+    width: 300px;
+    background-color: white;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+  }
+  .qrback .qrcode .imaqe {
+    border-radius: 10px;
+    width: 270px;
+    height: 320px;
+    margin: 0 auto;
+  }
+  .qrback .write {
+    width: 240px;
+    margin: 7px auto;
+    font-size: 14px;
+  }
+  .qrback .write h2 {
+    font-weight: 700;
+    color: hsl(218deg, 44%, 22%);
+  }
+  .qrback .write h3 {
+    font-weight: 400;
+    color: hsl(220deg, 15%, 55%);
+    font-size: 15px;
+  }
+}/*# sourceMappingURL=css.css.map */
