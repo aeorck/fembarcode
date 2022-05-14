@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-    -[Desktop Preview](#desktop)
-    -[Mobile Preview](#mobile)
+    - [Desktop Preview](#desktop)
+    - [Mobile Preview](#mobile)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,15 +19,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+
 #### desktop
 ![](./images/screenshot.png)
+
 #### mobile
 ![](./images/mobileSS.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aeorck/fembarcode)
-- Live Site URL: [Add live site URL here](https://fembarcode.netlify.app)
+- Solution URL: [Github](https://github.com/aeorck/fembarcode)
+- Live Site URL: [Netlify](https://fembarcode.netlify.app)
 
 ## My process
 
@@ -62,7 +64,7 @@ const proudOfThisFunc = () => {
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/aeorck)
-- Twitter - [@yourusername](https://www.twitter.com/datphoenixx)
+- Frontend Mentor - [@aeorck](https://www.frontendmentor.io/profile/aeorck)
+- Twitter - [@datphoenixx](https://www.twitter.com/datphoenixx)
 
 
