@@ -31,7 +31,7 @@ body {
   font-weight: 700;
   color: hsl(218deg, 44%, 22%);
 }
-.qrback .write h3 {
+.qrback .write h2 {
   font-weight: 400;
   color: hsl(220deg, 15%, 55%);
 }
@@ -70,7 +70,7 @@ body {
     font-weight: 700;
     color: hsl(218deg, 44%, 22%);
   }
-  .qrback .write h3 {
+  .qrback .write h2{
     font-weight: 400;
     color: hsl(220deg, 15%, 55%);
     font-size: 15px;
